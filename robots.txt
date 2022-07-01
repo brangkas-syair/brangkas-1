@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://brangkas-syair.github.io/brangkas-1/sitemap.xml
